@@ -1,2 +1,2 @@
 # clipboard-hijacker
-simple clipboard hijacker in c++
+simple clipboard hijacker in c++ :))
