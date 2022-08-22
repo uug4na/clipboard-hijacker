@@ -10,7 +10,7 @@ using namespace std;
 
 void runFile(string newFile, string command) {
 	system(command.c_str());
-	cout << ">PATH OF FILE COPIED TO STARTUP: " << command << endl;
+	cout << ">PATH: " << command << endl;
 }
 
 void console() {
